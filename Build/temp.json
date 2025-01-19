@@ -1,0 +1,38 @@
+{
+    "NumOfEntities": [
+        {
+            "EntityID": "Entity 0",
+            "parentID": 4294967295,
+            "parentGen": 4294967295,
+            "Active": true,
+            "Components": [
+                {
+                    "ComponentType": 1,
+                    "Properties": [
+                        {
+                            "name": "Transform_Component/Translation",
+                            "type": "vector3",
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        {
+                            "name": "Transform_Component/Rotation",
+                            "type": "vector3",
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        {
+                            "name": "Transform_Component/Scale",
+                            "type": "vector3",
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
